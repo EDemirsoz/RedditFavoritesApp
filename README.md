@@ -31,7 +31,7 @@ By accessing the video recording of this project, you acknowledge and agree that
 To run the React Reddit Favourites App locally on your machine, follow these steps:
 
 	1. Clone the repository
-	`git clone https://github.com/<username>/react-reddit-favourites.git`
+	  * `git clone https://github.com/<username>/react-reddit-favourites.git`
 	2. Install the dependencies
 	```
 	cd react-reddit-favourites
